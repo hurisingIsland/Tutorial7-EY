@@ -3,4 +3,12 @@ title: "exercise-EY"
 author: "Elvis Yang"
 date: '2022-04-13'
 output: html_document
+institute: "Department of Econometrics and Business Statistics"
+output:
+  pdf_document:
+  toc: true
+toc_depth: 2
+number_sections: true
+highlight: tango
 ---
+
